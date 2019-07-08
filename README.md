@@ -8,4 +8,5 @@
 [5.Types and variables[Type과 변수]](https://github.com/himj131/JAVA/blob/master/5.Types%20and%20variables%20%5BType%EA%B3%BC%20%EB%B3%80%EC%88%98%5D.md)  
 [6. Sizes and ranges [크기와 범위]](https://github.com/himj131/JAVA/blob/master/6.%20Sizes%20and%20ranges%20%5B%ED%81%AC%EA%B8%B0%EC%99%80%20%EB%B2%94%EC%9C%84%5D.md)  
 [7.Type casting [형변환]](https://github.com/himj131/JAVA/blob/master/7.Type%20casting%20%5B%ED%98%95%EB%B3%80%ED%99%98%5D.md)  
-[8.[8.Primitive and reference types [기본유형, 참조유형]]](https://github.com/himj131/JAVA/blob/master/8.Primitive%20and%20reference%20types%20%5B%EA%B8%B0%EB%B3%B8%EC%9C%A0%ED%98%95%2C%20%EC%B0%B8%EC%A1%B0%EC%9C%A0%ED%98%95%5D.md)
+[8.Primitive and reference types [기본유형, 참조유형](https://github.com/himj131/JAVA/blob/master/8.Primitive%20and%20reference%20types%20%5B%EA%B8%B0%EB%B3%B8%EC%9C%A0%ED%98%95%2C%20%EC%B0%B8%EC%A1%B0%EC%9C%A0%ED%98%95%5D.md)  
+[9.Array[배열]](https://github.com/himj131/JAVA/blob/master/9.Array%5B%EB%B0%B0%EC%97%B4%5D.md)
